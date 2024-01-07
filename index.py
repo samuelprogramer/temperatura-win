@@ -32,8 +32,8 @@ def update_icon(icon, _=None):
 
 icon = icon("Pystray test",
             icon=make_number_icon(0),
-            menu=menu(item("Atualziar ", update_icon),
-                      item("Quit", icon.stop)))
+            menu=menu(item("Atualizar ", update_icon),
+                      item("Sair", icon.stop)))
 
 def update_periodically_forever():
     global icon
