@@ -15,7 +15,7 @@ pip install pystray pillow requests
 1. Clone este repositório:
 
    ```bash
-   git@github.com:samuelprogramer/temperatura-win.git
+   git clone git@github.com:samuelprogramer/temperatura-win.git
    ```
 
 2. Navegue até o diretório do código:
