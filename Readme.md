@@ -15,19 +15,19 @@ pip install pystray pillow requests
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git@github.com:samuelprogramer/temperatura-win.git
    ```
 
 2. Navegue até o diretório do código:
 
    ```bash
-   cd seu-repositorio
+   cd temperatura-win
    ```
 
 3. Execute o script Python:
 
    ```bash
-   python seu_script.py
+   python index.py
    ```
 
    Isso iniciará o aplicativo na bandeja do sistema, e você verá um ícone que exibe a temperatura.
