@@ -46,6 +46,8 @@ Substitua `"arial.ttf"` pelo caminho da fonte desejada no seu sistema.
 
 Esse é um exemplo básico, e você pode estendê-lo conforme necessário para atender aos seus requisitos específicos.
 
+![temp](temp-win.png)
+
 
 ## Compilar ao app
 
@@ -56,3 +58,6 @@ pip install pyinstaller
 ```
 pyinstaller --onefile index.py
 ```
+
+
+
