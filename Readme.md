@@ -56,7 +56,7 @@ pip install pyinstaller
 ```
 
 ```
-pyinstaller --onefile index.py
+pyinstaller --noconsole --onefile temperatura.py
 ```
 
 
